@@ -1,0 +1,1 @@
+This repository contains a collection of Java learning materials, exercises, and projects from the courses at Bac Ha International University. It includes various programming concepts, such as object-oriented programming, loops, conditionals, and more, that are designed to help students build a strong foundation in Java programming.
